@@ -7,7 +7,7 @@ export const OnRampTransactions = ({
         time: Date,
         amount: number,
         // TODO: Can the type of `status` be more specific?
-        status: number,
+        status: string,
         provider: string
     }[]
 }) => {
