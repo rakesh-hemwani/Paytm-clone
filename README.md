@@ -17,6 +17,7 @@ This project is a basic Paytm clone that provides essential e-wallet functionali
 - **Database**: PostgreSQL
 - **ORM**: Prisma
 - **Styling**: Tailwind CSS
+- **CI/CD** - Github Workflows
 
 ## Project Structure
 The project is structured to separate concerns and facilitate a microservices architecture:
